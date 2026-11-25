@@ -6,7 +6,7 @@ I am a Data Science and Analytics student minoring in Philosophy. I am intereste
 #### Current Focus
 - Strengthening core skills in data manipulation and visualization.
 - Learning big data concepts, distributed systems, and scalable data workflows.
-- Studying philosophy (minor) with a focus on ethics, metaphysics and philosophy of mind, and philosophy of religion.
+- Studying philosophy (minor) with a focus on ethics, metaphysics, philosophy of mind, and philosophy of religion.
 - Exploring AI ethics and algorithmic fairness.
 
 
